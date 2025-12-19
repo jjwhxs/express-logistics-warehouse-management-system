@@ -177,7 +177,8 @@ public ResponseResult sendEmail(String email) throws Exception {
 
 4）下载完毕后启动前端npm run serve，访问端口
 
-获取方式(可远程调试)
+### 获取方式(可远程调试)
+
 访问链接(在浏览器中手动输入下图中的地址)：
 
 输入图片说明
