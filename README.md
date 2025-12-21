@@ -163,9 +163,11 @@ public ResponseResult sendEmail(String email) throws Exception {
 
 3、目录结构展示
 
+<img width="844" height="171" alt="目录结构展示" src="https://github.com/user-attachments/assets/8a653de7-a7b8-4ba3-ab64-9b1cdf401223" />
 
 4、项目结构展示
 
+<img width="1692" height="982" alt="项目结构展示" src="https://github.com/user-attachments/assets/befad339-ae03-4ef3-8d80-0b63d38be220" />
 
 5、运行步骤
 
@@ -181,6 +183,6 @@ public ResponseResult sendEmail(String email) throws Exception {
 
 访问链接(在浏览器中手动输入下图中的地址)：
 
-输入图片说明
+<img width="1029" height="124" alt="链接" src="https://github.com/user-attachments/assets/517f8b88-4da4-4baa-b281-11849be09762" />
 
 若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
