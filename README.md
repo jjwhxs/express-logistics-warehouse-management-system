@@ -185,4 +185,4 @@ public ResponseResult sendEmail(String email) throws Exception {
 
 <img width="1029" height="124" alt="链接" src="https://github.com/user-attachments/assets/517f8b88-4da4-4baa-b281-11849be09762" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
